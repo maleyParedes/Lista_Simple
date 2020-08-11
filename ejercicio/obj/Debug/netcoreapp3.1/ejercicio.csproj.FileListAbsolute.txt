@@ -1,0 +1,13 @@
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.exe
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.deps.json
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.runtimeconfig.json
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.runtimeconfig.dev.json
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.dll
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\bin\Debug\netcoreapp3.1\ejercicio.pdb
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.csprojAssemblyReference.cache
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.AssemblyInfoInputs.cache
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.AssemblyInfo.cs
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.dll
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.pdb
+C:\Users\aleym\OneDrive\Documentos\Miguel\Ing.Sis\III\3.Estructura de Datos\ejercicios\ejercicio\obj\Debug\netcoreapp3.1\ejercicio.genruntimeconfig.cache
